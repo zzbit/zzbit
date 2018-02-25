@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>1342047384</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\APPc\fsfx.c</file>
+      <file>$PROJ_DIR$\..\APPc\adc.c</file>
+      <file>$PROJ_DIR$\..\APPc\crc32.c</file>
+      <file>$PROJ_DIR$\..\APPc\dac.c</file>
+      <file>$PROJ_DIR$\..\APPc\gps.c</file>
+      <file>$PROJ_DIR$\..\APPc\gsm.c</file>
+      <file>$PROJ_DIR$\..\APPc\i2c_bh1750.c</file>
+      <file>$PROJ_DIR$\..\APPc\i2c_ee.c</file>
+      <file>$PROJ_DIR$\..\APPc\i2c_htu.c</file>
+      <file>$PROJ_DIR$\..\APPc\i2c_rtc.c</file>
+      <file>$PROJ_DIR$\..\APPc\i2c_shr1000.c</file>
+      <file>$PROJ_DIR$\..\APPc\it.c</file>
+      <file>$PROJ_DIR$\..\APPc\key.c</file>
+      <file>$PROJ_DIR$\..\APPc\lcd.c</file>
+      <file>$PROJ_DIR$\..\APPc\led.c</file>
+      <file>$PROJ_DIR$\..\APPc\logger.c</file>
+      <file>$PROJ_DIR$\..\APPc\main.c</file>
+      <file>$PROJ_DIR$\..\APPc\modbus.c</file>
+      <file>$PROJ_DIR$\..\APPc\ow.c</file>
+      <file>$PROJ_DIR$\..\APPc\print.c</file>
+      <file>$PROJ_DIR$\..\APPc\rfkp.c</file>
+      <file>$PROJ_DIR$\..\APPc\rtc.c</file>
+      <file>$PROJ_DIR$\..\APPc\spi_max31855.c</file>
+      <file>$PROJ_DIR$\..\APPc\spi_max31865.c</file>
+      <file>$PROJ_DIR$\..\APPc\uart_pc.c</file>
+      <file>$PROJ_DIR$\..\APPc\wireless.c</file>
+      <file>$PROJ_DIR$\..\APPc\wk2124.c</file>
+    </outputs>
+    <forcedrebuild>
+      <name>[REBUILD_ALL]</name>
+    </forcedrebuild>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>XLINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

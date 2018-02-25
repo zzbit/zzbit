@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>08/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>253</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      <PreferedWindows><Position>4</Position><ScreenPosX>7</ScreenPosX><ScreenPosY>97</ScreenPosY><Windows/></PreferedWindows></Workspace>
+      <Build>
+        <PreferedWindows>
+          
+          
+          
+          
+        <Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1035</ColumnWidth1><ColumnWidth2>276</ColumnWidth2><ColumnWidth3>383</ColumnWidth3></Build>
+    <Debug-Log><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window></Windows></PreferedWindows><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1381</ColumnWidth1></Debug-Log><TerminalIO/><Breakpoints><PreferedWindows><Position>3</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows><Window><Factory>Build</Factory></Window></Windows></PreferedWindows></Breakpoints></Static>
+    <Windows>
+      
+    <Wnd0><Tabs><Tab><Identity>TabID-28255-30702</Identity><TabName>Workspace</TabName><Factory>Workspace</Factory><Session><NodeDict><ExpandedNode>08</ExpandedNode></NodeDict></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd0><Wnd1><Tabs><Tab><Identity>TabID-18122-16314</Identity><TabName>Build</TabName><Factory>Build</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd1></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\APPc\logger.c</Filename><XPos>0</XPos><YPos>3411</YPos><SelStart>9163</SelStart><SelEnd>9163</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\APPh\_config.h</Filename><XPos>0</XPos><YPos>1046</YPos><SelStart>44909</SelStart><SelEnd>44909</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\APPc\gsm.c</Filename><XPos>0</XPos><YPos>129</YPos><SelStart>2940</SelStart><SelEnd>2940</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\APPc\it.c</Filename><XPos>0</XPos><YPos>52</YPos><SelStart>61209</SelStart><SelEnd>61209</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\APPc\main.c</Filename><XPos>0</XPos><YPos>219</YPos><SelStart>4121</SelStart><SelEnd>4121</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\APPc\uart_pc.c</Filename><XPos>0</XPos><YPos>837</YPos><SelStart>22332</SelStart><SelEnd>22332</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\APPc\key.c</Filename><XPos>0</XPos><YPos>1780</YPos><SelStart>37825</SelStart><SelEnd>37837</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\APPc\i2c_ee.c</Filename><XPos>0</XPos><YPos>272</YPos><SelStart>4865</SelStart><SelEnd>4875</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\APPc\wk2124.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>939</SelStart><SelEnd>939</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\APPc\print.c</Filename><XPos>0</XPos><YPos>2984</YPos><SelStart>79928</SelStart><SelEnd>79928</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\APPc\lcd.c</Filename><XPos>0</XPos><YPos>399</YPos><SelStart>8490</SelStart><SelEnd>8497</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\APPc\i2c_htu.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>130</SelStart><SelEnd>130</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\APPh\_i2c_htu.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>459</SelStart><SelEnd>459</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\APPc\modbus.c</Filename><XPos>0</XPos><YPos>14</YPos><SelStart>902</SelStart><SelEnd>902</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\APPc\gps.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>467</SelStart><SelEnd>467</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\APPc\crc32.c</Filename><XPos>0</XPos><YPos>24</YPos><SelStart>2423</SelStart><SelEnd>2423</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\APPc\adc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>60</SelStart><SelEnd>60</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\APPc\rtc.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>13</SelStart><SelEnd>13</SelEnd></Tab><ActiveTab>17</ActiveTab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-008cd750><key>iaridepm.enu1</key></Toolbar-008cd750></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>755</Bottom><Right>327</Right><x>-2</x><y>-2</y><xscreen>894</xscreen><yscreen>1194</yscreen><sizeHorzCX>465625</sizeHorzCX><sizeHorzCY>1196393</sizeHorzCY><sizeVertCX>171354</sizeVertCX><sizeVertCY>758517</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>198</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>200</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>200401</sizeHorzCY><sizeVertCX>104167</sizeVertCX><sizeVertCY>200401</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
